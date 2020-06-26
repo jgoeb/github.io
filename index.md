@@ -9,4 +9,6 @@ Fritz Schmitz ist der größte Held aller Zeiten. Seine Filme sind absolut über
 * Ewigkeit
 * Ewigkeit 2
 
+## Zitat:
 
+>Zickezacke - Hühnerkacke
