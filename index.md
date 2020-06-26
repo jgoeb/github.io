@@ -12,3 +12,5 @@ Fritz Schmitz ist der größte Held aller Zeiten. Seine Filme sind absolut über
 ## Zitat:
 
 >Zickezacke - Hühnerkacke
+
+<img src="https://upload.wikimedia.org/wikipedia/de/thumb/c/c0/Jakob_Friedrich_Ehrhart.jpg/85px-Jakob_Friedrich_Ehrhart.jpg"/>
